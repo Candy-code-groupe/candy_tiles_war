@@ -46,4 +46,4 @@ You can request that data be deleted by sending an email founded in Contact Us s
 ### Contact Us  
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
 Contact Information:  
-Email: mazzoo.cash.app@gmail.com
+Email: gamy.tech.apps@gmail.com
